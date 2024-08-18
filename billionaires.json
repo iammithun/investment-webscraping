@@ -1,0 +1,318 @@
+[
+    {
+        "name": "AKO Capital",
+        "investment": "$7.28 B"
+    },
+    {
+        "name": "Alex Roepers - Atlantic Investment Management",
+        "investment": "$222 M"
+    },
+    {
+        "name": "AltaRock Partners",
+        "investment": "$4.86 B"
+    },
+    {
+        "name": "Bill & Melinda Gates Foundation Trust",
+        "investment": "$47.7 B"
+    },
+    {
+        "name": "Bill Ackman - Pershing Square Capital Management",
+        "investment": "$10.4 B"
+    },
+    {
+        "name": "Bill Miller - Miller Value Partners",
+        "investment": "$150 M"
+    },
+    {
+        "name": "Bill Nygren - Oakmark Select Fund",
+        "investment": "$6.16 B"
+    },
+    {
+        "name": "Bruce Berkowitz - Fairholme Capital",
+        "investment": "$1.39 B"
+    },
+    {
+        "name": "Bryan Lawrence - Oakcliff Capital",
+        "investment": "$187 M"
+    },
+    {
+        "name": "Carl Icahn - Icahn Capital Management",
+        "investment": "$10.8 B"
+    },
+    {
+        "name": "Charles Bobrinskoy - Ariel Focus Fund",
+        "investment": "$64 M"
+    },
+    {
+        "name": "Chase Coleman - Tiger Global Management",
+        "investment": "$21.6 B"
+    },
+    {
+        "name": "Chris Hohn - TCI Fund Management",
+        "investment": "$40.9 B"
+    },
+    {
+        "name": "Christopher Bloomstran - Semper Augustus",
+        "investment": "$559 M"
+    },
+    {
+        "name": "Christopher Davis - Davis Advisors",
+        "investment": "$17.6 B"
+    },
+    {
+        "name": "Chuck Akre - Akre Capital Management",
+        "investment": "$11.4 B"
+    },
+    {
+        "name": "Clifford Sosin - CAS Investment Partners",
+        "investment": "$1.28 B"
+    },
+    {
+        "name": "Daniel Loeb - Third Point",
+        "investment": "$8.68 B"
+    },
+    {
+        "name": "David Abrams - Abrams Capital Management",
+        "investment": "$5.12 B"
+    },
+    {
+        "name": "David Einhorn - Greenlight Capital",
+        "investment": "$2.04 B"
+    },
+    {
+        "name": "David Katz - Matrix Asset Advisors",
+        "investment": "$837 M"
+    },
+    {
+        "name": "David Rolfe - Wedgewood Partners",
+        "investment": "$490 M"
+    },
+    {
+        "name": "David Tepper - Appaloosa Management",
+        "investment": "$6.18 B"
+    },
+    {
+        "name": "Dennis Hong - ShawSpring Partners",
+        "investment": "$693 M"
+    },
+    {
+        "name": "Dodge & Cox",
+        "investment": "$106.3 B"
+    },
+    {
+        "name": "First Eagle Investment Management",
+        "investment": "$44.1 B"
+    },
+    {
+        "name": "FPA Queens Road Small Cap Value Fund",
+        "investment": "$632 M"
+    },
+    {
+        "name": "Francis Chou - Chou Associates",
+        "investment": "$139 M"
+    },
+    {
+        "name": "Francois Rochon - Giverny Capital",
+        "investment": "$2.37 B"
+    },
+    {
+        "name": "Glenn Greenberg - Brave Warrior Advisors",
+        "investment": "$4.51 B"
+    },
+    {
+        "name": "Glenn Welling - Engaged Capital",
+        "investment": "$584 M"
+    },
+    {
+        "name": "Greenhaven Associates",
+        "investment": "$7.61 B"
+    },
+    {
+        "name": "Greg Alexander - Conifer Management",
+        "investment": "$816 M"
+    },
+    {
+        "name": "Guy Spier - Aquamarine Capital",
+        "investment": "$263 M"
+    },
+    {
+        "name": "Harry Burn - Sound Shore",
+        "investment": "$3 B"
+    },
+    {
+        "name": "Hillman Value Fund",
+        "investment": "$226 M"
+    },
+    {
+        "name": "Howard Marks - Oaktree Capital Management",
+        "investment": "$5.25 B"
+    },
+    {
+        "name": "Jensen Investment Management",
+        "investment": "$12.2 B"
+    },
+    {
+        "name": "John Armitage - Egerton Capital",
+        "investment": "$9.9 B"
+    },
+    {
+        "name": "John Rogers - Ariel Appreciation Fund",
+        "investment": "$952 M"
+    },
+    {
+        "name": "Josh Tarasoff - Greenlea Lane Capital",
+        "investment": "$366 M"
+    },
+    {
+        "name": "Kahn Brothers Group",
+        "investment": "$595 M"
+    },
+    {
+        "name": "Lee Ainslie - Maverick Capital",
+        "investment": "$5.27 B"
+    },
+    {
+        "name": "Leon Cooperman",
+        "investment": "$2.37 B"
+    },
+    {
+        "name": "Li Lu - Himalaya Capital Management",
+        "investment": "$2.56 B"
+    },
+    {
+        "name": "Lindsell Train",
+        "investment": "$4.34 B"
+    },
+    {
+        "name": "Mairs & Power Growth Fund",
+        "investment": "$5.55 B"
+    },
+    {
+        "name": "Mason Hawkins - Longleaf Partners",
+        "investment": "$1.14 B"
+    },
+    {
+        "name": "Meridian Contrarian Fund",
+        "investment": "$573 M"
+    },
+    {
+        "name": "Michael Burry - Scion Asset Management",
+        "investment": "$52 M"
+    },
+    {
+        "name": "Mohnish Pabrai - Pabrai Investments",
+        "investment": "$233 M"
+    },
+    {
+        "name": "Nelson Peltz - Trian Fund Management",
+        "investment": "$4.1 B"
+    },
+    {
+        "name": "Norbert Lou - Punch Card Management",
+        "investment": "$338 M"
+    },
+    {
+        "name": "Pat Dorsey - Dorsey Asset Management",
+        "investment": "$839 M"
+    },
+    {
+        "name": "Polen Capital Management",
+        "investment": "$39.9 B"
+    },
+    {
+        "name": "Prem Watsa - Fairfax Financial Holdings",
+        "investment": "$1.18 B"
+    },
+    {
+        "name": "Richard Pzena - Hancock Classic Value",
+        "investment": "$1.15 B"
+    },
+    {
+        "name": "Robert Olstein - Olstein Capital Management",
+        "investment": "$562 M"
+    },
+    {
+        "name": "Robert Vinall - RV Capital GmbH",
+        "investment": "$416 M"
+    },
+    {
+        "name": "Ruane Cunniff - Sequoia Fund",
+        "investment": "$3.33 B"
+    },
+    {
+        "name": "Samantha McLemore - Patient Capital Management",
+        "investment": "$1.88 B"
+    },
+    {
+        "name": "Seth Klarman - Baupost Group",
+        "investment": "$3.53 B"
+    },
+    {
+        "name": "Stephen Mandel - Lone Pine Capital",
+        "investment": "$12.3 B"
+    },
+    {
+        "name": "Steven Romick - FPA Crescent Fund",
+        "investment": "$6.41 B"
+    },
+    {
+        "name": "Terry Smith - Fundsmith",
+        "investment": "$24.5 B"
+    },
+    {
+        "name": "Third Avenue Management",
+        "investment": "$583 M"
+    },
+    {
+        "name": "Thomas Gayner - Markel Group",
+        "investment": "$10.2 B"
+    },
+    {
+        "name": "Thomas Russo - Gardner Russo & Quinn",
+        "investment": "$9.47 B"
+    },
+    {
+        "name": "Tom Bancroft - Makaira Partners",
+        "investment": "$771 M"
+    },
+    {
+        "name": "Torray Funds",
+        "investment": "$669 M"
+    },
+    {
+        "name": "Triple Frond Partners",
+        "investment": "$852 M"
+    },
+    {
+        "name": "Tweedy Browne Co. - Tweedy Browne Value Fund",
+        "investment": "$420 M"
+    },
+    {
+        "name": "Valley Forge Capital Management",
+        "investment": "$3.87 B"
+    },
+    {
+        "name": "ValueAct Capital",
+        "investment": "$3.56 B"
+    },
+    {
+        "name": "Viking Global Investors",
+        "investment": "$26 B"
+    },
+    {
+        "name": "Wallace Weitz - Weitz Large Cap Equity Fund",
+        "investment": "$880 M"
+    },
+    {
+        "name": "Warren Buffett - Berkshire Hathaway",
+        "investment": "$280 B"
+    },
+    {
+        "name": "William Von Mueffling - Cantillon Capital Management",
+        "investment": "$15 B"
+    },
+    {
+        "name": "Yacktman Asset Management",
+        "investment": "$10.7 B"
+    }
+]
